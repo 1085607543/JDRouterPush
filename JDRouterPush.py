@@ -284,7 +284,7 @@ def resultDisplay():
 
     # 信息输出测试
     print("标题->", title)
-    print("内容->\n", normalContent)
+    #print("内容->\n", normalContent)
 # endregion
 
 # 处理IP
